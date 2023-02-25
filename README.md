@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)]
 <h1 align="center">Hi 👋, I'm React Js Front End Web Developer</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNUSDg4d1dWWW1TRUM5NGQ2NHhsMXRvNVM2QXxBQ3Jtc0tuekQ2SmFTVFBnRUpaOGxKaVV3R3JmSW5LbFVOTTF0MlQ5NFgwSlJ2b1dkN3NfSTFvVkZpamxYZklWQmd2S0M2NVJBXzEtR2N1U0Q1c0lIYlJqVGN6cUotMFB3QjF6Q0t2WmxDanVqTFRQUkdZSFFvRQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrik20&label=Profile%20views&color=0e75b6&style=flat" alt="yousrik20" /> </p>
